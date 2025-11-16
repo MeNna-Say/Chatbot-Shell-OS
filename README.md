@@ -9,7 +9,7 @@ my_project/
 └── README.md            # Project documentation
 ---------------------------------------------------------------------------------------------
 Installation:
-git clone https://github.com/MeNna-Say/MyProject.git
+git clone https://github.com/MennaXI/Chatbot-Shell-OS
 cd MyProject
 -----------------------------------------------------------------------------------------------
 Create a virtual environment:
